@@ -1,5 +1,5 @@
 name: Enyaq Companion Blue Edition
-version: 0.5.2
+version: 0.5.3
 slug: enyaq_companion
 description: Synthetic journey and ownership planner
 arch:
@@ -11,3 +11,4 @@ ingress_port: 8099
 panel_title: Enyaq Companion
 panel_icon: mdi:car-electric
 panel_admin: true
+homeassistant_api: true

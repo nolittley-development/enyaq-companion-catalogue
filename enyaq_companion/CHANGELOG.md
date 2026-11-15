@@ -1,3 +1,3 @@
-# 0.5.2
+# 0.5.3
 
-Adds a visible update confirmation to the synthetic Overview.
+Overview can read vehicle battery percentage from Home Assistant. Other readings remain examples.
