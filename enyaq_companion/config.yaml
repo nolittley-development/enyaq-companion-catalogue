@@ -1,0 +1,13 @@
+name: Enyaq Companion Blue Edition
+version: 0.5.2
+slug: enyaq_companion
+description: Synthetic journey and ownership planner
+arch:
+- amd64
+startup: application
+boot: manual
+ingress: true
+ingress_port: 8099
+panel_title: Enyaq Companion
+panel_icon: mdi:car-electric
+panel_admin: true
