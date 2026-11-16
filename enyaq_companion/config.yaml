@@ -1,11 +1,12 @@
 name: Enyaq Companion Blue Edition
-version: 0.5.3
+version: 0.6.0
 slug: enyaq_companion
-description: Synthetic journey and ownership planner
+description: Private vehicle history and advisory planner
 arch:
 - amd64
 startup: application
 boot: manual
+init: false
 ingress: true
 ingress_port: 8099
 panel_title: Enyaq Companion

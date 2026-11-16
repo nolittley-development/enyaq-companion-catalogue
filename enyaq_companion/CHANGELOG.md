@@ -1,3 +1,3 @@
-# 0.5.3
+# 0.6.0
 
-Overview can read vehicle battery percentage from Home Assistant. Other readings remain examples.
+Private vehicle history, whole-day planning and lease mileage with local backup and diagnostics.
