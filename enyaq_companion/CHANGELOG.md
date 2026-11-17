@@ -1,3 +1,3 @@
-# 0.6.0
+# 0.7.0
 
-Private vehicle history, whole-day planning and lease mileage with local backup and diagnostics.
+Live local status refresh and charging confidence with private history and advisory planning.

@@ -1,1 +1,1 @@
-FROM ghcr.io/nolittley-development/enyaq-companion@sha256:2b8a4e67e10553a8dd0255b6104607686772fd3ec1d1aa536e7d22739c754df7
+FROM ghcr.io/nolittley-development/enyaq-companion@sha256:da258159135b630dc908457a69282261d0be1c9cd2a808fa9fa2430ceb94f1db
