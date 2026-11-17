@@ -1,3 +1,3 @@
-# 0.7.0
+# 0.8.0
 
-Live local status refresh and charging confidence with private history and advisory planning.
+Blue Edition charging overview with battery target and ready-by previews.
