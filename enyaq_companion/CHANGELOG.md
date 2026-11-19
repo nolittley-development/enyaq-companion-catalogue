@@ -1,3 +1,3 @@
-# 0.8.0
+# 0.8.1
 
-Blue Edition charging overview with battery target and ready-by previews.
+Charging status, reading freshness and journey coverage improvements.
